@@ -1,5 +1,5 @@
 <h1 align="center">
- 🏁 Covid-19 Vaccine Visualizer 🏁
+ 💉 Covid-19 Vaccine Visualizer 💉
 </h1>
 
 ## Programming Paradigms:
