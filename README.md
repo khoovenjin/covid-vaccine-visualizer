@@ -5,7 +5,7 @@
 ## Programming Paradigms:
 
 1. Functional Programming
-2. Logic Programming Paradigm (Prolog)
+2. Logic Programming (Prolog)
 3. Object Oriented Programming
 
 ### Installation 🔌
